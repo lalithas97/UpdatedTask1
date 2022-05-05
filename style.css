@@ -136,7 +136,7 @@ th {
     border-radius: 20px;
 }
 .progress{
-    height:10px;
+    height:6px;
     margin-top:50px;
 }
 #heading{
@@ -162,4 +162,29 @@ h4{
 }
 .acard, .gdiv{
     margin:15px;border-radius:20px;height:150px;
+}
+.ulogo{
+    margin-left:20px;
+    width:110px; 
+    height:36px;
+}
+.uimg{
+   width:50px; height:50px; border-radius:25px;margin-right:5px;margin-left:50px;
+}
+.usertitle{
+    float:left;font-size: 15px;font-weight: bold;color:white;padding-left:45px;text-align: center;
+}
+.mcard{
+    margin-right:5px; color:white; margin-top:15px;margin-left:10px;border-radius:20px;  
+}
+.mcard p{
+  font-size:20px; font-weight:bold;padding-top:15px;
+   
+}
+.mcard i{
+    font-size:20px; font-weight:bold;padding-top:15px;
+   
+}
+.titlecard{
+    font-size:18px;font-weight:bold;
 }
